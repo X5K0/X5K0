@@ -44,7 +44,7 @@
 ![Apache](https://img.shields.io/badge/apache-orange?style=for-the-badge&logo=apache&labelColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-3C873A?style=for-the-badge&logo=nginx&labelColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-20232A?style=for-the-badge&logo=kalilinux&labelColor=20232A)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&labelColor=black)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&labelColor=black)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%239FEF00?style=for-the-badge&logo=hackthebox&labelColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&labelColor=black)
