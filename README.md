@@ -62,4 +62,14 @@
 
 # My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X5K0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/X5K0"><img alt="X5K0 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=X5K0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+
+
+# Top Repositories
+[![PortIdentifier](https://github-readme-stats.vercel.app/api/pin/?username=X5K0&repo=PortIdentifier&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
+[![FileNuke](https://github-readme-stats.vercel.app/api/pin/?username=X5K0&repo=FileNuke&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
+
+
+
+
