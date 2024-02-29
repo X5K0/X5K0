@@ -60,16 +60,33 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Github](https://img.shields.io/badge/github-F05032?style=for-the-badge&logo=github&logoColor=white)
 
-# My Stats
-
-
-<a href="https://github.com/X5K0"><img alt="X5K0 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=X5K0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-
-
 # Top Repositories
 [![PortIdentifier](https://github-readme-stats.vercel.app/api/pin/?username=X5K0&repo=PortIdentifier&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/X5K0/PortIdentifier)
-[![FileNuke](https://github-readme-stats.vercel.app/api/pin/?username=X5K0&repo=FileNuke&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/X5K0/FileNuke)
+[![FileNuke](https://github-readme-stats.vercel.app/api/pin/?username=X5K0&repo=fileNuke&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/X5K0/FileNuke)
+<p align="left">
+  <a href="https://github.com/X5K0?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
+# My Stats
 
+<br/>
+<hr/>
+<br/>
 
+<p align="center">
+  <a href="https://github.com/X5K0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=X5K0&theme=radical&border=7F3FBF&background=0D1117" alt="X5K0 GitHub streak"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/X5K0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=X5K0&theme=radical" alt="X5K0 GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/X5K0"><img alt="X5K0 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=X5K0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/X5K0"><img alt="X5K0 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=X5K0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
