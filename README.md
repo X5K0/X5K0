@@ -91,3 +91,6 @@
   <a href="https://github.com/X5K0"><img alt="X5K0 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=X5K0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/X5K0/X5K0/blob/main/Blur.jpg?raw=true');]{x0000}$}
